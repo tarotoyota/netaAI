@@ -1,0 +1,152 @@
+[
+  {
+    "entry_id": "",
+    "entry_speaker": "a",
+    "entry_line": "I won't let you out of the classroom until you write it a hundred times!",
+    "entry_function": ".factagent_easa.action"
+  },
+  {
+    "entry_id": "5",
+    "entry_speaker": "b",
+    "entry_line": "I just fell asleep during class. It's abuse.",
+    "entry_function": ""
+  },
+  {
+    "entry_id": "4",
+    "entry_speaker": "a",
+    "entry_line": "Shut up! Are you properly listening to this memorization CD before you go to sleep?",
+    "entry_function": "abcl_learning"
+  },
+  {
+    "entry_id": "",
+    "entry_speaker": "b",
+    "entry_line": "I understand that you want to show your enthusiasm as a new teacher but this is going too far.",
+    "entry_function": ""
+  },
+  {
+    "entry_id": "",
+    "entry_speaker": "a",
+    "entry_line": "",
+    "entry_function": ""
+  },
+  {
+    "entry_id": "",
+    "entry_speaker": "b",
+    "entry_line": "",
+    "entry_function": ""
+  },
+  {
+    "entry_id": "3",
+    "entry_speaker": "a",
+    "entry_line": "Follow my son's example. He has perfect attendance for three years, and...",
+    "entry_function": "Garnish.nanamagari"
+  },
+  {
+    "entry_id": "",
+    "entry_speaker": "b",
+    "entry_line": "Cut it out!",
+    "entry_function": ""
+  },
+  {
+    "entry_id": "r",
+    "entry_speaker": "b",
+    "entry_line": "Don\u2019t cram in sex education. ",
+    "entry_function": ""
+  },
+  {
+    "entry_id": "g",
+    "entry_speaker": "",
+    "entry_line": "[There are lots of \"menstruation\" written on the blackboard.]",
+    "entry_function": ""
+  },
+  {
+    "entry_id": "",
+    "entry_speaker": "a",
+    "entry_line": "What?",
+    "entry_function": ""
+  },
+  {
+    "entry_id": "1",
+    "entry_speaker": "b ",
+    "entry_line": "Don't hold a boot camp for health class. This is harassment. You perv.",
+    "entry_function": ""
+  },
+  {
+    "entry_id": "",
+    "entry_speaker": "a",
+    "entry_line": "Shut up! Are you properly listening to this memorization CD before you go to sleep, just as I instructed?",
+    "entry_function": ""
+  },
+  {
+    "entry_id": "4",
+    "entry_speaker": "The audio flashcard",
+    "entry_line": "[In the audio A plays, A says: Pubic hair. Pubic hair. [Cough] Pubic hair.]",
+    "entry_function": ""
+  },
+  {
+    "entry_id": "5",
+    "entry_speaker": "b",
+    "entry_line": "This is the reason why I fall asleep during class.",
+    "entry_function": ""
+  },
+  {
+    "entry_id": "",
+    "entry_speaker": "a",
+    "entry_line": "This is not sexual harassment. I'm not a perv.",
+    "entry_function": ""
+  },
+  {
+    "entry_id": "",
+    "entry_speaker": "",
+    "entry_line": "",
+    "entry_function": ""
+  },
+  {
+    "entry_id": "",
+    "entry_speaker": "a",
+    "entry_line": "Oh, lunch break finished. What is the next class?",
+    "entry_function": ""
+  },
+  {
+    "entry_id": "g",
+    "entry_speaker": "b",
+    "entry_line": "It's S-curve driving lesson [Camera reveals it is a driving school.]",
+    "entry_function": "abcl_school"
+  },
+  {
+    "entry_id": "",
+    "entry_speaker": "",
+    "entry_line": "",
+    "entry_function": ""
+  },
+  {
+    "entry_id": "",
+    "entry_speaker": "",
+    "entry_line": "",
+    "entry_function": ""
+  },
+  {
+    "entry_id": "3",
+    "entry_speaker": "b",
+    "entry_line": "Are your son failing to graduate from this driving school for three years?",
+    "entry_function": "abcl_school"
+  },
+  {
+    "entry_id": "",
+    "entry_speaker": "",
+    "entry_line": "",
+    "entry_function": ""
+  },
+  {
+    "entry_id": "",
+    "entry_speaker": "",
+    "entry_line": "",
+    "entry_function": ""
+  },
+  {
+    "entry_id": "",
+    "entry_speaker": "",
+    "entry_line": "",
+    "entry_function": ""
+  }
+]
